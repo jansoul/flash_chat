@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "388228462509",
+    "project_id": "finalflashchat-d3c01",
+    "storage_bucket": "finalflashchat-d3c01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388228462509:android:559659997de018ab0f1324",
+        "android_client_info": {
+          "package_name": "com.example.zaparil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388228462509-jv5bprla0krn4fk7t0trunndse0jphd2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3GxRIT_pGxDhcdLaaYOwuO3V-PvmJBXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388228462509-jv5bprla0krn4fk7t0trunndse0jphd2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "388228462509-c7enmv1rf6k3vik4oqttq28gjncslvnb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flashChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

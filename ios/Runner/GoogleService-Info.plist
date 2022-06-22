@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>388228462509-j7d9v6i16s2kfjl1hv5jhn2kqf5n5ggu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.388228462509-j7d9v6i16s2kfjl1hv5jhn2kqf5n5ggu</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAC81-gAd1xFWtFR-vtAsRMwOEmzJHCUvI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>388228462509</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.zaparil</string>
+	<key>PROJECT_ID</key>
+	<string>finalflashchat-d3c01</string>
+	<key>STORAGE_BUCKET</key>
+	<string>finalflashchat-d3c01.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:388228462509:ios:d96f2c4350a97d960f1324</string>
+</dict>
+</plist>
